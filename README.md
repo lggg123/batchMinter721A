@@ -1,8 +1,10 @@
-# Sample Hardhat Project
+# Batch NFT Minter
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Instructions on how to start
 
-Try running some of the following tasks:
+`npm install`
+
+`npx hardhat run --network mumbai scripts/deploy.js`
 
 ```shell
 npx hardhat help
