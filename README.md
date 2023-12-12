@@ -4,6 +4,8 @@
 
 `npm install`
 
+The code below will deploy it to the mumbai testnet. I am having trouble understanding the baseURI and how to set it on BatchNFTs.sol
+
 `npx hardhat run --network mumbai scripts/deploy.js`
 
 ```shell
